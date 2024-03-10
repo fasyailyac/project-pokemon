@@ -1,0 +1,20 @@
+[2024-03-09 19:07:34,498] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.18.26:8000
+[2024-03-09 19:07:34,511] INFO in _internal: [33mPress CTRL+C to quit[0m
+[2024-03-09 19:07:34,519] INFO in _internal:  * Restarting with stat
+[2024-03-09 19:07:38,033] WARNING in _internal:  * Debugger is active!
+[2024-03-09 19:07:38,126] INFO in _internal:  * Debugger PIN: 138-550-019
+[2024-03-09 19:08:41,806] INFO in _internal: 192.168.18.26 - - [09/Mar/2024 19:08:41] "[33mGET / HTTP/1.1[0m" 404 -
+[2024-03-09 19:08:42,546] INFO in _internal: 192.168.18.26 - - [09/Mar/2024 19:08:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-03-09 19:08:55,869] INFO in _internal: 127.0.0.1 - - [09/Mar/2024 19:08:55] "[33mGET / HTTP/1.1[0m" 404 -
+[2024-03-09 19:08:56,402] INFO in _internal: 127.0.0.1 - - [09/Mar/2024 19:08:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-03-09 19:09:00,252] INFO in _internal: 127.0.0.1 - - [09/Mar/2024 19:09:00] "[33mGET / HTTP/1.1[0m" 404 -
+[2024-03-09 19:09:33,540] INFO in _internal: 127.0.0.1 - - [09/Mar/2024 19:09:33] "[33mGET /student/student-login HTTP/1.1[0m" 404 -
+[2024-03-09 19:09:48,385] INFO in _internal: 127.0.0.1 - - [09/Mar/2024 19:09:48] "GET /pokemon/pokemon-login HTTP/1.1" 200 -
+[2024-03-10 23:37:32,400] INFO in _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+[2024-03-10 23:37:32,403] INFO in _internal: [33mPress CTRL+C to quit[0m
